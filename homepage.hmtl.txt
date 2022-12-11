@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html>
+   <body>
+     <head>
+       <title> IPT1_MATH&ICT_Q2 </title>
+   </head> 
+
+
+
+
+<body background="https://thumbs.dreamstime.com/b/creative-bright-school-background-back-to-school-class-off-color-banner-concept-vector-holiday-frame-educational-objects-193124007.jpg">
+
+
+
+<style>
+
+h1 {text-align:Center;}
+
+</style>
+</head>
+<body>
+
+
+
+
+<h1 style="font-family:Papyrus">MATHEMATICS</h1> <I><B><center>Lessons in Mathematics Quarter 2 Week 3-5</center></I></B>
+<I><B><center>By Kylle Francis C. De Guzman & Nathalie Grace L. Motol</center></I></B>
+
+
+
+
+
+
+
+
+
+
+</table>
+</center>
+</body>
